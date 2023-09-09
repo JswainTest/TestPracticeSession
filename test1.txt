@@ -5,3 +5,5 @@
 3. "On this special day, I hope you receive all the love and happiness you've given to others throughout your life. Happy Birthday!"
 
 4. "Happy Birthday! May your day be filled with joy, your year with success, and your life with love."
+
+5. Added a new line
